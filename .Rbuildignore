@@ -1,0 +1,16 @@
+^renv$
+^renv\.lock$
+^.*\.Rproj$
+^\.Rproj\.user$
+
+^data-raw$
+^\.dockerignore$
+^\.Rprofile$
+^\.RData$
+^aahdata.*\.tar\.gz$
+^bitbucket-pipelines\.yml$
+^Dockerfile$
+^.*\.html$
+^NEWS\.md$
+^test-results/
+^README\.Rmd$
